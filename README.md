@@ -18,4 +18,4 @@ The drivers of Mental health diagnosis were identified
 The demographic distribution of patients was also analyzed. 
 
 ## Link to interact with Viz
-https://app.powerbi.com/view?r=eyJrIjoiZWJjOGNmYjQtYTk1MC00YmUyLTk2YWQtNjkyMzJhOTY5ZGY5IiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
+https://app.powerbi.com/view?r=eyJrIjoiYmRiMGNiOTItNjIzMy00NjY2LThkZTUtOWZiMjk2ODYyZTgzIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9&pageName=ReportSectione74f425ac0e410734870
